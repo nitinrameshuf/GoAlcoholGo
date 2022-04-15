@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "969712783625",
+    "firebase_url": "https://lifyplus.firebaseio.com",
+    "project_id": "lifyplus",
+    "storage_bucket": "lifyplus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969712783625:android:98fcd7c7b6e3fe2da843d8",
+        "android_client_info": {
+          "package_name": "com.l.lifyplus2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969712783625-91u0gmmj6otipmio17nouh334cv0drmb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVlSj9VLYQfROcBL39F1ygARMTEg2q-IU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969712783625-91u0gmmj6otipmio17nouh334cv0drmb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

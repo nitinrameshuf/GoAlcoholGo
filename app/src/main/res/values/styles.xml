@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base apllication theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorAccent">@color/Color_Accent</item>
+    </style>
+    <style name="CustomFont">
+        <item name="android:fontFamily">@font/poppins</item>
+    </style>
+</resources>
