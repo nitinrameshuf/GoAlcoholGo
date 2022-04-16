@@ -9,7 +9,7 @@
 
     <application
         android:icon="@mipmap/ic_launcher"
-        android:label="Lifyplus"
+        android:label="GoAlcoholGo"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.goalcoholgo">
@@ -33,12 +33,6 @@
         <activity
             android:name="com.dh.goalcoholgo.Progress"
             android:theme="@style/Theme.goalcoholgo.NoActionBar" />
-<!--        <activity-->
-<!--            android:name=".JunkFood"-->
-<!--            android:theme="@style/Theme.Lifyplus2.NoActionBar" />-->
-<!--        <activity-->
-<!--            android:name=".Smoking"-->
-<!--            android:theme="@style/Theme.Lifyplus2.NoActionBar" />-->
         <activity
             android:name="com.dh.goalcoholgo.Alcohol_1"
             android:label="@string/title_activity_alcohol_1"
