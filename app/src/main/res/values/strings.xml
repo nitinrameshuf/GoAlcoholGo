@@ -68,11 +68,9 @@
     <string name="Panic">Help!</string>
     <string name="Panic1">Panic</string>
     <string name="Quote">Quote of the Day</string>
-    <string name="Observe">Observe and absorb
-         the energy from this urge…breath deeply
-        feel it… use it for
-        your growth.... </string>
-    <string name="Lasttime">Every Time is your last time.... Dont do it.. You can control this urges just trust the process</string>
+    <string name="Quote1">Our greatest glory is not in never falling, but in rising every time we fall. - Confucius</string>
+    <string name="Quote2">We are what we repeatedly do. Excellence, then, is not an act, but a habit. – Aristotle</string>
+    <string name="Quote3">No man is free who is not master of himself. – Epictetus</string>
     <string name="DrinkWater">Drink Water</string>
     <string name="Read_Books">Read Books</string>
     <string name="Meditation">Meditation</string>
@@ -84,11 +82,6 @@
     <string name="desc1">desc</string>
     <string name="Alert">Alert</string>
     <string name="Wallpaper">Wallpaper</string>
-    <string name="panic_2">Recovery is hard. 
-        Regret is harder - Brittany Burgunder</string>
-    <string name="p21">Believe you can you are halfway there - Theodre Roosevelt</string>
-    <string name="p31">it does not matter how slowly you go as long as you do not stop</string>
-    <string name="p32">I am not telling you its going to be easy , I am telling you its going to be worth it - Anonymous</string>
     <string name="insp">Inspire Me</string>
     <string name="Home">Home</string>
     <string name="Signup">Signup</string>

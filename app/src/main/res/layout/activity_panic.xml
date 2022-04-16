@@ -26,7 +26,7 @@
         android:layout_width="359dp"
         android:layout_height="154dp"
         android:layout_marginTop="30dp"
-        android:text="@string/Lasttime"
+        android:text="@string/Quote1"
         android:textAlignment="center"
         android:textColor="@color/white"
         android:textSize="33sp"
@@ -39,7 +39,7 @@
         android:id="@+id/p1"
         android:layout_width="334dp"
         android:layout_height="48dp"
-        android:layout_marginTop="20dp"
+        android:layout_marginBottom="30dp"
         android:background="@drawable/bgbtngreen"
         android:onClick="P1"
         android:text="@string/insp"
@@ -47,8 +47,7 @@
         android:textSize="20sp"
         app:layout_constraintBottom_toTopOf="@+id/Home"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/textView4" />
+        app:layout_constraintStart_toStartOf="parent" />
 
     <Button
         android:id="@+id/Home"
