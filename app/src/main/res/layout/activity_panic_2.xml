@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/w"
+    android:background="@drawable/cherd_back"
     tools:context="com.dh.goalcoholgo.Panic_2">
 
     <TextView
@@ -40,17 +40,17 @@
 
     <Button
         android:id="@+id/P2"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="309dp"
+        android:layout_height="43dp"
         android:layout_marginStart="144dp"
         android:layout_marginTop="48dp"
         android:layout_marginEnd="179dp"
         android:layout_marginBottom="20dp"
+        android:background="@drawable/bgbtngreen"
         android:onClick="P2"
+        android:text="@string/insp"
         android:textColor="@color/white"
         android:textSize="20sp"
-        android:text="@string/Lify"
-        android:background="@drawable/bgbtngreen"
         app:layout_constraintBottom_toTopOf="@+id/textView4"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"

@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/m"
+    android:background="@drawable/cherd_back_bottom"
     tools:context="com.dh.goalcoholgo.Progress">
 
     <Button
@@ -183,8 +183,8 @@
 
     <TextView
         android:id="@+id/textView9"
-        android:layout_width="161dp"
-        android:layout_height="45dp"
+        android:layout_width="308dp"
+        android:layout_height="40dp"
         android:layout_marginTop="16dp"
         android:text="@string/Daily_Goals"
         android:textAlignment="center"

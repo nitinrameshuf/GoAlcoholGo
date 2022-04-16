@@ -13,9 +13,10 @@
         <entry key="app/src/main/res/layout/activity_alert.xml" value="0.22916666666666666" />
         <entry key="app/src/main/res/layout/activity_form2.xml" value="0.16970642089843746" />
         <entry key="app/src/main/res/layout/activity_login.xml" value="0.25" />
-        <entry key="app/src/main/res/layout/activity_panic.xml" value="0.1408514492753623" />
+        <entry key="app/src/main/res/layout/activity_panic.xml" value="0.5075509691285015" />
         <entry key="app/src/main/res/layout/activity_panic_2.xml" value="0.2296195652173913" />
-        <entry key="app/src/main/res/layout/activity_progress.xml" value="0.22916666666666666" />
+        <entry key="app/src/main/res/layout/activity_panic_3.xml" value="0.34694976806640626" />
+        <entry key="app/src/main/res/layout/activity_progress.xml" value="0.49637858072916663" />
         <entry key="app/src/main/res/layout/activity_register.xml" value="0.33" />
         <entry key="app/src/main/res/layout/activity_splash_screen.xml" value="0.22916666666666666" />
         <entry key="app/src/main/res/layout/item_view.xml" value="0.22916666666666666" />

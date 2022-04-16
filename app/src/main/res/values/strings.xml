@@ -65,8 +65,9 @@
     <string name="Counterone">30</string>
     <string name="Reset1">Reset</string>
     <string name="Progress">Daily Progress</string>
-    <string name="Panic">Panic</string>
+    <string name="Panic">Help!</string>
     <string name="Panic1">Panic</string>
+    <string name="Quote">Quote of the Day</string>
     <string name="Observe">Observe and absorb
          the energy from this urge…breath deeply
         feel it… use it for
@@ -75,8 +76,8 @@
     <string name="DrinkWater">Drink Water</string>
     <string name="Read_Books">Read Books</string>
     <string name="Meditation">Meditation</string>
-    <string name="Workout">WorkOut</string>
-    <string name="Daily_Goals">Daily Goals</string>
+    <string name="Workout">Excercise</string>
+    <string name="Daily_Goals">Healthy Habits</string>
     <string name="plus">+</string>
     <string name="minus1">-</string>
     <string name="Counter2">0</string>
@@ -88,7 +89,7 @@
     <string name="p21">Believe you can you are halfway there - Theodre Roosevelt</string>
     <string name="p31">it does not matter how slowly you go as long as you do not stop</string>
     <string name="p32">I am not telling you its going to be easy , I am telling you its going to be worth it - Anonymous</string>
-    <string name="Lify">Lify</string>
+    <string name="insp">Inspire Me</string>
     <string name="Home">Home</string>
     <string name="Signup">Signup</string>
     <string name="Login">Login</string>
