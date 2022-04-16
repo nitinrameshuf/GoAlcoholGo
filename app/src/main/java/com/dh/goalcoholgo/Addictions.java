@@ -18,16 +18,5 @@ public class Addictions extends AppCompatActivity {
         Intent intent = new Intent(this, Alcohol_1.class);
         startActivity(intent);
     }
-//    public void Smoking(View view) {
-//
-//        Intent intent = new Intent(this, Smoking.class);
-//        startActivity(intent);
-//    }
-//
-//    public void Junkfood(View view) {
-//
-//        Intent intent = new Intent(this, JunkFood.class);
-//        startActivity(intent);
-//    }
 }
 
