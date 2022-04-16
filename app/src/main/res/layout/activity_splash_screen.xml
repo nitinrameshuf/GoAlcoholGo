@@ -4,14 +4,14 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/black"
+    android:background="@drawable/cherd_back_blank"
     tools:context="com.dh.goalcoholgo.splashScreen">
 
     <ImageView
         android:id="@+id/imagesplash"
         android:layout_width="308dp"
         android:layout_height="275dp"
-        android:src="@drawable/mp"
+        android:src="@drawable/c_icon"
 
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"

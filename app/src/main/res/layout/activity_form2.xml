@@ -61,7 +61,7 @@
         android:layout_width="317dp"
         android:layout_height="375dp"
         android:layout_marginStart="20dp"
-        android:layout_marginTop="120dp"
+        android:layout_marginTop="130dp"
         android:layout_marginEnd="83dp"
         android:fontFamily="monospace"
         android:text="@string/Value2"
