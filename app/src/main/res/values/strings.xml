@@ -46,6 +46,7 @@
     <string name="Date_picker">Calender</string>
     <string name="Text">Key of happiness is not a life for money</string>
     <string name="Date_pickert">Target</string>
+    <string name="Instructions">Instructions</string>
     <string name="Alcohol_Kills">Alcohol Kills</string>
     <string name="Sleep_quote">Go to Sleep - Dark Circle Alert</string>
     <string name="junk_quote">Don\'t Eat Junk -You are human not dustbin</string>
@@ -75,7 +76,7 @@
     <string name="Read_Books">Read Books</string>
     <string name="Meditation">Meditation</string>
     <string name="Workout">Excercise</string>
-    <string name="Daily_Goals">Healthy Habits</string>
+    <string name="Daily_Goals">Healthy Habit Tracker</string>
     <string name="plus">+</string>
     <string name="minus1">-</string>
     <string name="Counter2">0</string>
@@ -87,6 +88,7 @@
     <string name="Signup">Signup</string>
     <string name="Login">Login</string>
     <string name="title_activity_login">LoginActivity</string>
+    <string name="start">Let\'s Start</string>
     <string name="prompt_email">Email</string>
     <string name="prompt_password">Password</string>
     <string name="action_sign_in">Sign in or register</string>

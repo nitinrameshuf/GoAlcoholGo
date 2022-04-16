@@ -8,6 +8,20 @@
     tools:context="com.dh.goalcoholgo.Progress">
 
     <Button
+        android:id="@+id/home3"
+        android:layout_width="334dp"
+        android:layout_height="48dp"
+        android:layout_marginBottom="125dp"
+        android:background="@drawable/bgbtngreen"
+        android:onClick="H2"
+        android:text="@string/Home"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <Button
         android:id="@+id/minus3"
         android:layout_width="58dp"
         android:layout_height="41dp"
@@ -183,8 +197,8 @@
 
     <TextView
         android:id="@+id/textView9"
-        android:layout_width="308dp"
-        android:layout_height="40dp"
+        android:layout_width="350dp"
+        android:layout_height="39dp"
         android:layout_marginTop="16dp"
         android:text="@string/Daily_Goals"
         android:textAlignment="center"

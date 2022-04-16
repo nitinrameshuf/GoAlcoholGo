@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
@@ -11,21 +12,20 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerInParent="true"
-        android:layout_centerVertical="true"
-        android:layout_centerHorizontal="true"
         android:text="Open Time Picker"
-        android:textColor="#fff"/>
+        android:textColor="#fff" />
+
     <TextView
         android:id="@+id/textView13"
         style="@style/CustomFont"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:textSize="30sp"
         android:layout_above="@+id/button_timepicker"
-        android:text="No Alert Set"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="30dp"
-        android:textColor="#fff"/>
+        android:text="No Alert Set"
+        android:textColor="#fff"
+        android:textSize="30sp" />
 
     <Button
         android:id="@+id/button_cancel"
@@ -36,7 +36,7 @@
         android:layout_marginBottom="252dp"
         android:text="Cancel Alert"
         android:textColor="#fff"
-        tools:ignore="MissingConstraints"/>
+        tools:ignore="MissingConstraints" />
 
 
 </RelativeLayout>

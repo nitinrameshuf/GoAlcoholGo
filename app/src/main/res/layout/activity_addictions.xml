@@ -1,28 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@drawable/cherd_back_blank"
     tools:context="com.dh.goalcoholgo.Addictions">
 
+    <ImageView
+        android:id="@+id/bgcircle2"
+        android:layout_width="407dp"
+        android:layout_height="589dp"
+        android:contentDescription="@string/desc"
+        android:src="@drawable/instructions"
+        app:layout_constraintBottom_toTopOf="@+id/linearLayout"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textViewContent2" />
+
+    <TextView
+        android:id="@+id/textViewContent2"
+        style="@style/CustomFont"
+        android:layout_width="317dp"
+        android:layout_height="48dp"
+        android:layout_marginTop="20dp"
+        android:text="@string/Instructions"
+        android:textAlignment="center"
+        android:textColor="#fff"
+        android:textSize="28sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
     <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:id="@+id/linearLayout"
+        android:layout_width="334dp"
+        android:layout_height="49dp"
+        android:layout_marginBottom="20dp"
         android:orientation="vertical"
-        tools:layout_editor_absoluteX="0dp"
-        tools:layout_editor_absoluteY="143dp">
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent">
 
         <Button
-            android:id="@+id/button7"
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:layout_marginEnd="1dp"
-            android:layout_marginBottom="83dp"
-            android:backgroundTint="@color/white"
+            android:id="@+id/home2"
+            android:layout_width="334dp"
+            android:layout_height="48dp"
+            android:layout_marginBottom="125dp"
+            android:background="@drawable/bgbtngreen"
             android:onClick="Alcohol"
-            android:text="@string/Begin"
-            android:textColor="@color/black"
-            tools:ignore="MissingConstraints" />
+            android:textAllCaps="false"
+            android:text="@string/start"
+            android:textColor="@color/white"
+            android:textSize="20sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
 
 
     </LinearLayout>
