@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.l.lifyplus2">
+    package="com.dh.goalcoholgo">
 
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS" />
@@ -12,27 +12,27 @@
         android:label="Lifyplus"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.Lifyplus2">
-        <activity android:name=".LoginActivity"
-            android:theme="@style/Theme.Lifyplus2.NoActionBar"/>
-        <activity android:name=".RegisterActivity"
-            android:theme="@style/Theme.Lifyplus2.NoActionBar"/>
+        android:theme="@style/Theme.goalcoholgo">
+        <activity android:name="com.dh.goalcoholgo.LoginActivity"
+            android:theme="@style/Theme.goalcoholgo.NoActionBar"/>
+        <activity android:name="com.dh.goalcoholgo.RegisterActivity"
+            android:theme="@style/Theme.goalcoholgo.NoActionBar"/>
         <activity
-            android:name=".panic_3"
+            android:name="com.dh.goalcoholgo.panic_3"
 
-            android:theme="@style/Theme.Lifyplus2.NoActionBar" />
+            android:theme="@style/Theme.goalcoholgo.NoActionBar" />
         <activity
-            android:name=".Panic_2"
-            android:theme="@style/Theme.Lifyplus2.NoActionBar" />
+            android:name="com.dh.goalcoholgo.Panic_2"
+            android:theme="@style/Theme.goalcoholgo.NoActionBar" />
         <activity
-            android:name=".Alert"
-            android:theme="@style/Theme.Lifyplus2.NoActionBar" />
+            android:name="com.dh.goalcoholgo.Alert"
+            android:theme="@style/Theme.goalcoholgo.NoActionBar" />
         <activity
-            android:name=".Panic"
-            android:theme="@style/Theme.Lifyplus2.NoActionBar" />
+            android:name="com.dh.goalcoholgo.Panic"
+            android:theme="@style/Theme.goalcoholgo.NoActionBar" />
         <activity
-            android:name=".Progress"
-            android:theme="@style/Theme.Lifyplus2.NoActionBar" />
+            android:name="com.dh.goalcoholgo.Progress"
+            android:theme="@style/Theme.goalcoholgo.NoActionBar" />
 <!--        <activity-->
 <!--            android:name=".JunkFood"-->
 <!--            android:theme="@style/Theme.Lifyplus2.NoActionBar" />-->
@@ -40,19 +40,19 @@
 <!--            android:name=".Smoking"-->
 <!--            android:theme="@style/Theme.Lifyplus2.NoActionBar" />-->
         <activity
-            android:name=".Alcohol_1"
+            android:name="com.dh.goalcoholgo.Alcohol_1"
             android:label="@string/title_activity_alcohol_1"
-            android:theme="@style/Theme.Lifyplus2.NoActionBar" />
+            android:theme="@style/Theme.goalcoholgo.NoActionBar" />
         <activity
-            android:name=".Addictions"
+            android:name="com.dh.goalcoholgo.Addictions"
             android:label="@string/title_activity_a_d_d_i_c_t_i_o_n_s"
-            android:theme="@style/Theme.Lifyplus2.NoActionBar" />
+            android:theme="@style/Theme.goalcoholgo.NoActionBar" />
         <activity
-            android:name=".Form2"
-            android:theme="@style/Theme.Lifyplus2.NoActionBar" />
+            android:name="com.dh.goalcoholgo.Form2"
+            android:theme="@style/Theme.goalcoholgo.NoActionBar" />
         <activity
-            android:name=".splashScreen"
-            android:theme="@style/Theme.Lifyplus2.NoActionBar">
+            android:name="com.dh.goalcoholgo.splashScreen"
+            android:theme="@style/Theme.goalcoholgo.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -60,7 +60,7 @@
             </intent-filter>
         </activity>
 
-        <receiver android:name=".AlertReceiver" />
+        <receiver android:name="com.dh.goalcoholgo.AlertReceiver" />
 
         <meta-data
             android:name="preloaded_fonts"

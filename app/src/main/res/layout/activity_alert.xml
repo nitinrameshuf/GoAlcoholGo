@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/m"
-    tools:context=".Alert">
+    tools:context="com.dh.goalcoholgo.Alert">
 
     <Button
         android:id="@+id/button_timepicker"

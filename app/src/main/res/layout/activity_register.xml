@@ -9,7 +9,7 @@
     android:paddingTop="10dp"
     android:paddingEnd="10dp"
     android:paddingBottom="10dp"
-    tools:context=".RegisterActivity">
+    tools:context="com.dh.goalcoholgo.RegisterActivity">
 
 
     <TextView

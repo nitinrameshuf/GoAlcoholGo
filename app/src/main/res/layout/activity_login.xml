@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:background="@color/black"
     android:scrollbarSize="20sp"
-    tools:context=".LoginActivity">
+    tools:context="com.dh.goalcoholgo.LoginActivity">
 
     <TextView
         android:id="@+id/login"
