@@ -43,9 +43,9 @@
     <string name="Pause">pause</string>
     <string name="timer">timer</string>
     <string name="timer_n">10:00</string>
-    <string name="Date_picker">Date Picker</string>
+    <string name="Date_picker">Calender</string>
     <string name="Text">Key of happiness is not a life for money</string>
-    <string name="Date_pickert">DatePicker</string>
+    <string name="Date_pickert">Target</string>
     <string name="Alcohol_Kills">Alcohol Kills</string>
     <string name="Sleep_quote">Go to Sleep - Dark Circle Alert</string>
     <string name="junk_quote">Don\'t Eat Junk -You are human not dustbin</string>
@@ -64,8 +64,9 @@
     <string name="Reset">0</string>
     <string name="Counterone">30</string>
     <string name="Reset1">Reset</string>
-    <string name="Progress">Progress</string>
+    <string name="Progress">Daily Progress</string>
     <string name="Panic">Panic</string>
+    <string name="Panic1">Panic</string>
     <string name="Observe">Observe and absorb
          the energy from this urge…breath deeply
         feel it… use it for

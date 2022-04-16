@@ -26,7 +26,7 @@ import java.util.Date;
 import cn.iwgang.countdownview.CountdownView;
 
     public class Alcohol_1 extends AppCompatActivity implements DatePickerDialog.OnDateSetListener {
-        TextView tvSplash;
+        //TextView tvSplash;
         Button btnstop;
         ImageView icanchor;
         Animation roundingalone;
@@ -91,7 +91,7 @@ import cn.iwgang.countdownview.CountdownView;
             reference = database.getReference("Category");
             //recyclerView
 
-            tvSplash = findViewById(R.id.tvsplash);
+            //tvSplash = findViewById(R.id.tvsplash);
 
 
             btnstop = findViewById(R.id.btnstop);
@@ -111,7 +111,7 @@ import cn.iwgang.countdownview.CountdownView;
 
 
             // Customize font
-            tvSplash.setTypeface(MRegular);
+            //tvSplash.setTypeface(MRegular);
             btnstop.setTypeface(MRegular);
             Reset.setTypeface(MRegular);
             Attempt.setTypeface(MRegular);
