@@ -47,8 +47,6 @@
     <string name="Text">Key of happiness is not a life for money</string>
     <string name="Date_pickert">DatePicker</string>
     <string name="Alcohol_Kills">Alcohol Kills</string>
-    <string name="Smoking_1">Smoking Kills</string>
-    <string name="Smoking_kills">Smoking Kills</string>
     <string name="Sleep_quote">Go to Sleep - Dark Circle Alert</string>
     <string name="junk_quote">Don\'t Eat Junk -You are human not dustbin</string>
     <string name="JUnk">Dont eat Junk - You are a human not dustbin</string>
@@ -59,11 +57,8 @@
     <string name="Continue">Continue</string>
     <string name="Alcohol_2">Alcohol</string>
     <string name="Value">Begineer = 30 days</string>
-    <string name="Addictions">Addictions</string>
-    <string name="Pro">Pro = 60 Days</string>
-    <string name="Value1">Begineer = 30 Days</string>
-    <string name="Legend">Legend = 90 Days</string>
-    <string name="Value2">Beginner = 30 Days</string>
+    <string name="Addictions">GoAlcoholGo</string>
+    <string name="Value2">Welcome to GoAlcoholGo, the app for alcohol dependency tracking and recovery. Track your rehabilitation progress, get motivational messages, alerts and set milestones starting from small steps to quit your additions today.</string>
     <string name="Counter">365</string>
     <string name="Attempt">Attempt</string>
     <string name="Reset">0</string>

@@ -4,16 +4,21 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2755" />
+        <entry key="app/src/main/res/drawable/btn_bg1.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/btnred.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/input_bg.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_addictions.xml" value="0.22916666666666666" />
         <entry key="app/src/main/res/layout/activity_alcohol_1.xml" value="0.33" />
         <entry key="app/src/main/res/layout/activity_alert.xml" value="0.22916666666666666" />
-        <entry key="app/src/main/res/layout/activity_form2.xml" value="0.22916666666666666" />
-        <entry key="app/src/main/res/layout/activity_login.xml" value="0.22916666666666666" />
+        <entry key="app/src/main/res/layout/activity_form2.xml" value="0.5071453857421875" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.25" />
         <entry key="app/src/main/res/layout/activity_panic_2.xml" value="0.2296195652173913" />
         <entry key="app/src/main/res/layout/activity_progress.xml" value="0.22916666666666666" />
-        <entry key="app/src/main/res/layout/activity_register.xml" value="0.22916666666666666" />
+        <entry key="app/src/main/res/layout/activity_register.xml" value="0.33" />
         <entry key="app/src/main/res/layout/activity_splash_screen.xml" value="0.22916666666666666" />
         <entry key="app/src/main/res/layout/item_view.xml" value="0.22916666666666666" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
       </map>
     </option>
   </component>
