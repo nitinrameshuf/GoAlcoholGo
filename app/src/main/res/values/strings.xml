@@ -76,6 +76,7 @@
     <string name="Read_Books">Read Books</string>
     <string name="Meditation">Meditation</string>
     <string name="Workout">Excercise</string>
+    <string name="reward">Reward: New Badge!</string>
     <string name="Daily_Goals">Healthy Habit Tracker</string>
     <string name="plus">+</string>
     <string name="minus1">-</string>
@@ -85,6 +86,8 @@
     <string name="Wallpaper">Wallpaper</string>
     <string name="insp">Inspire Me</string>
     <string name="Home">Home</string>
+    <string name="submit">Submit</string>
+    <string name="restart">Reset</string>
     <string name="Signup">Signup</string>
     <string name="Login">Login</string>
     <string name="title_activity_login">LoginActivity</string>

@@ -1,6 +1,5 @@
 package com.dh.goalcoholgo;
 
-import androidx.appcompat.app.AppCompatActivity;
 import android.annotation.SuppressLint;
 import android.content.Intent;
 import android.os.Bundle;
@@ -9,10 +8,10 @@ import android.widget.Button;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.dh.goalcoholgo.R;
+import androidx.appcompat.app.AppCompatActivity;
 
 
-public class Progress extends AppCompatActivity {
+public class Progress_3 extends AppCompatActivity {
     //DrinkWater
      Button plus;
      Button Minus;
@@ -37,7 +36,7 @@ public class Progress extends AppCompatActivity {
 
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_progress);
+        setContentView(R.layout.activity_progress_3);
         //Drink Water
         plus = findViewById(R.id.plus1);
         plus.setOnClickListener(clickListener);
@@ -177,16 +176,16 @@ public class Progress extends AppCompatActivity {
 
         }
     };
-    public void Prog1(View view) {
+    public void Prog3(View view) {
         if(counter!=0 || counter1!=0 || counter2!=0 || counter3!=0) {
-            Intent intent = new Intent(this, Progress_2.class);
+            Intent intent = new Intent(this, Progress_4.class);
             startActivity(intent);
         }
         else{
             Toast.makeText(this,"Complete a goal to receive a badge",Toast.LENGTH_SHORT).show();
         }
     }
-    public void Home1(View view) {
+    public void Home3(View view) {
 
         Intent intent = new Intent(this, Alcohol_1.class);
         startActivity(intent);

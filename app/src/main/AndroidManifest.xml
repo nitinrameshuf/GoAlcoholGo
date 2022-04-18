@@ -34,6 +34,15 @@
             android:name="com.dh.goalcoholgo.Progress"
             android:theme="@style/Theme.goalcoholgo.NoActionBar" />
         <activity
+            android:name="com.dh.goalcoholgo.Progress_2"
+            android:theme="@style/Theme.goalcoholgo.NoActionBar" />
+        <activity
+            android:name="com.dh.goalcoholgo.Progress_3"
+            android:theme="@style/Theme.goalcoholgo.NoActionBar" />
+        <activity
+            android:name="com.dh.goalcoholgo.Progress_4"
+            android:theme="@style/Theme.goalcoholgo.NoActionBar" />
+        <activity
             android:name="com.dh.goalcoholgo.Alcohol_1"
             android:label="@string/title_activity_alcohol_1"
             android:theme="@style/Theme.goalcoholgo.NoActionBar" />
