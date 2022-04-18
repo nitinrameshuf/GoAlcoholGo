@@ -130,7 +130,7 @@
 
     <Button
         android:id="@+id/Attempt"
-        android:layout_width="126dp"
+        android:layout_width="150dp"
         android:layout_height="48dp"
         android:text="@string/Attempt"
         android:textAlignment="center"
@@ -143,8 +143,8 @@
 
     <Button
         android:id="@+id/Reset"
-        android:layout_width="84dp"
-        android:layout_height="45dp"
+        android:layout_width="85dp"
+        android:layout_height="48dp"
         android:layout_marginEnd="20dp"
         android:layout_marginBottom="1dp"
         android:text="@string/Reset1"
@@ -154,12 +154,11 @@
         android:textSize="14sp"
         app:layout_constraintBottom_toTopOf="@+id/btnstop"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/btnDatePicker"
-        app:layout_constraintVertical_bias="0.518" />
+        app:layout_constraintTop_toBottomOf="@+id/btnDatePicker" />
 
     <Button
         android:id="@+id/Progress"
-        android:layout_width="154dp"
+        android:layout_width="150dp"
         android:layout_height="48dp"
         android:layout_marginTop="1dp"
         android:onClick="Progress"
@@ -177,6 +176,7 @@
         android:layout_width="85dp"
         android:layout_height="48dp"
         android:layout_marginStart="20dp"
+        android:layout_marginBottom="1dp"
         android:onClick="Panic"
         android:text="@string/Panic"
         android:textAlignment="center"
@@ -189,8 +189,9 @@
 
     <Button
         android:id="@+id/panic"
-        android:layout_width="85dp"
+        android:layout_width="150dp"
         android:layout_height="48dp"
+        android:layout_marginBottom="1dp"
         android:onClick="stest"
         android:text="@string/stest"
         android:textAlignment="center"
@@ -205,9 +206,9 @@
 
     <Button
         android:id="@+id/Alert"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginEnd="10dp"
+        android:layout_width="85dp"
+        android:layout_height="48dp"
+        android:layout_marginEnd="20dp"
         android:onClick="Alert"
         android:text="@string/Alert"
         android:textAllCaps="false"
@@ -218,9 +219,9 @@
 
     <Button
         android:id="@+id/logout"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginStart="10dp"
+        android:layout_width="85dp"
+        android:layout_height="48dp"
+        android:layout_marginStart="20dp"
         android:onClick="logout"
         android:text="@string/Logout"
         android:textAllCaps="false"

@@ -10,6 +10,7 @@ import android.os.CountDownTimer;
 import android.view.View;
 import android.widget.TextView;
 import android.widget.Toast;
+import android.annotation.SuppressLint;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -82,7 +83,6 @@ public class stest extends AppCompatActivity implements SensorEventListener {
                     x_aggregate = 0.0f;
                     y_aggregate = 0.0f;
                     z_aggregate = 0.0f;
-                    //Toast.makeText(this,"Take a cab",Toast.LENGTH_SHORT).show();
                 }
                 else{
                     x_aggregate = 0.0f;

@@ -89,22 +89,20 @@
         app:layout_constraintTop_toBottomOf="@+id/txtValues4" />
 
     //Result
+
     <TextView
         android:id="@+id/txtValues7"
         android:layout_width="359dp"
         android:layout_height="41dp"
         android:layout_marginStart="1dp"
-        android:layout_marginTop="15dp"
-        android:layout_marginBottom="120dp"
+        android:layout_marginBottom="130dp"
         android:text="@string/status"
         android:textAlignment="center"
         android:textColor="@color/white"
         android:textSize="30sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/Home"
-        app:layout_constraintVertical_bias="0.037" />
+        app:layout_constraintStart_toStartOf="parent" />
 
 
 
