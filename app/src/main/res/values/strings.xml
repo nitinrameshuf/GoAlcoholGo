@@ -71,6 +71,7 @@
     <string name="Panic">Help!</string>
     <string name="stest">Sobriety Test</string>
     <string name="svalues">Sensor Reading</string>
+    <string name="phone">Phone</string>
     <string name="x">X</string>
     <string name="y">Y</string>
     <string name="z">Z</string>

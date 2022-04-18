@@ -102,6 +102,7 @@
         android:drawableStart="@drawable/ic_phone"
         android:drawablePadding="10dp"
         android:inputType="number"
+        android:hint="@string/phone"
         android:paddingStart="20dp"
         android:paddingTop="10dp"
         android:paddingEnd="10dp"
