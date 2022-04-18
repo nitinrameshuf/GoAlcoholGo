@@ -143,8 +143,8 @@
 
     <Button
         android:id="@+id/Reset"
-        android:layout_width="150dp"
-        android:layout_height="48dp"
+        android:layout_width="84dp"
+        android:layout_height="45dp"
         android:layout_marginEnd="20dp"
         android:layout_marginBottom="1dp"
         android:text="@string/Reset1"
@@ -154,8 +154,6 @@
         android:textSize="14sp"
         app:layout_constraintBottom_toTopOf="@+id/btnstop"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="1.0"
-        app:layout_constraintStart_toEndOf="@+id/Panic"
         app:layout_constraintTop_toBottomOf="@+id/btnDatePicker"
         app:layout_constraintVertical_bias="0.518" />
 
@@ -176,7 +174,7 @@
 
     <Button
         android:id="@+id/Panic"
-        android:layout_width="150dp"
+        android:layout_width="85dp"
         android:layout_height="48dp"
         android:layout_marginStart="20dp"
         android:onClick="Panic"
@@ -188,6 +186,22 @@
         app:layout_constraintBottom_toTopOf="@+id/btnstop"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/btnDatePicker" />
+
+    <Button
+        android:id="@+id/panic"
+        android:layout_width="85dp"
+        android:layout_height="48dp"
+        android:onClick="stest"
+        android:text="@string/stest"
+        android:textAlignment="center"
+        android:textAllCaps="false"
+        android:textColor="@color/white"
+        android:textSize="14sp"
+        app:layout_constraintBottom_toTopOf="@+id/btnstop"
+        app:layout_constraintEnd_toStartOf="@+id/Reset"
+        app:layout_constraintStart_toEndOf="@+id/Panic"
+        app:layout_constraintTop_toBottomOf="@+id/btnDatePicker"
+        app:layout_constraintVertical_bias="0.541" />
 
     <Button
         android:id="@+id/Alert"

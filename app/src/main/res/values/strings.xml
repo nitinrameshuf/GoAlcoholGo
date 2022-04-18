@@ -19,6 +19,8 @@
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
     <string name="Alcohol">Alcohol</string>
     <string name="Begin">Lets Begin</string>
+    <string name="Begin2">Begin</string>
+    <string name="status"> Result: Untested</string>
     <string name="Smoking">Smoking</string>
     <string name="Sleep_Intake">Sleep Intake</string>
     <string name="Junk_Food">Junk Food</string>
@@ -67,6 +69,13 @@
     <string name="Reset1">Reset</string>
     <string name="Progress">Daily Progress</string>
     <string name="Panic">Help!</string>
+    <string name="stest">Sobriety Test</string>
+    <string name="svalues">Sensor Reading</string>
+    <string name="x">X</string>
+    <string name="y">Y</string>
+    <string name="z">Z</string>
+    <string name="starttest">Start Test</string>
+    <string name="stest_des">Instruction \nClick button and hold phone steady for 10 seconds. The phone will try to assess your steadiness via the onboard sensors.</string>
     <string name="Panic1">Panic</string>
     <string name="Quote">Quote of the Day</string>
     <string name="Quote1">Our greatest glory is not in never falling, but in rising every time we fall. - Confucius</string>
@@ -77,6 +86,7 @@
     <string name="Meditation">Meditation</string>
     <string name="Workout">Excercise</string>
     <string name="reward">Reward: New Badge!</string>
+    <string name="avalues">Accelerometer Values</string>
     <string name="Daily_Goals">Healthy Habit Tracker</string>
     <string name="plus">+</string>
     <string name="minus1">-</string>

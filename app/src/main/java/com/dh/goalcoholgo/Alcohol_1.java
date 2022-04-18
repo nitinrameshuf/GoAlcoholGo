@@ -138,6 +138,12 @@ import cn.iwgang.countdownview.CountdownView;
             startActivity(intent);
         }
 
+        public void stest(View view) {
+
+            Intent intent = new Intent(this, stest.class);
+            startActivity(intent);
+        }
+
         @SuppressLint("SetTextI18n")
         private void initCounter() {
             counter = 0;

@@ -54,6 +54,9 @@
             android:name="com.dh.goalcoholgo.Form2"
             android:theme="@style/Theme.goalcoholgo.NoActionBar" />
         <activity
+            android:name="com.dh.goalcoholgo.stest"
+            android:theme="@style/Theme.goalcoholgo.NoActionBar" />
+        <activity
             android:name="com.dh.goalcoholgo.splashScreen"
             android:theme="@style/Theme.goalcoholgo.NoActionBar">
             <intent-filter>

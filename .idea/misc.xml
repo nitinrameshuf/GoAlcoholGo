@@ -11,7 +11,7 @@
         <entry key="app/src/main/res/drawable/ic_one.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/input_bg.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_addictions.xml" value="0.21686746987951808" />
-        <entry key="app/src/main/res/layout/activity_alcohol_1.xml" value="0.35538818359374996" />
+        <entry key="app/src/main/res/layout/activity_alcohol_1.xml" value="0.665770263671875" />
         <entry key="app/src/main/res/layout/activity_alert.xml" value="0.5" />
         <entry key="app/src/main/res/layout/activity_form2.xml" value="0.3563687133789062" />
         <entry key="app/src/main/res/layout/activity_login.xml" value="0.25" />
@@ -24,6 +24,7 @@
         <entry key="app/src/main/res/layout/activity_progress_4.xml" value="0.498220640569395" />
         <entry key="app/src/main/res/layout/activity_register.xml" value="0.33" />
         <entry key="app/src/main/res/layout/activity_splash_screen.xml" value="0.22916666666666666" />
+        <entry key="app/src/main/res/layout/activity_stest.xml" value="0.4653311466825181" />
         <entry key="app/src/main/res/layout/item_view.xml" value="0.22916666666666666" />
         <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
         <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
